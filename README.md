@@ -17,3 +17,5 @@ Put the Catch-21 file in there
 Now just open your minecraft launcher, press Installations, New... and Pick Catch-21 in the Version spot. 
 
 Now you can use TDC's Catch-21 Minecraft Hacked Client!
+
+# `(You might have to unZip the files!)`
