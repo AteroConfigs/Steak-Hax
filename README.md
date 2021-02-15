@@ -1,7 +1,8 @@
 # Catch-21 Download
 
 Download [Link](https://github.com/TDC0471/Catch-21/tree/Catch-21-v1)
-Press the big green download
+
+Then Press the big green download
 
 ## Setup
 To Setup press WINDOWKEY+R and paste %appdata%/.minecraft in there and then go to the verisons folder and move the Catch-21 file there.
