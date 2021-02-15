@@ -1,6 +1,6 @@
 # Catch-21 Download
 
-Link: https://github.com/TDC0471/Catch-21/tree/Catch-21-v1
+Download [Link] (https://github.com/TDC0471/Catch-21/tree/Catch-21-v1)
 Press the big green download
 
 ## Setup
