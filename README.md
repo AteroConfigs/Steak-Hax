@@ -1,8 +1,10 @@
 # Catch-21
-Website: https://tdc0471.github.io/Catch-21/ (Will add lots of stuff)
+Website: https://tdc0471.github.io/Catch-21/ (Will add lots of stuff
+
+# To get files to setup client (LINK)[https://github.com/TDC0471/Catch-21/releases]
 
 # Windows :
-To Install press WINDOWKEY+R and paste %appdata%/.minecraft in there and then go to the verisons folder and move the Catch-21 file there.
+To Setuo press WINDOWKEY+R and paste %appdata%/.minecraft in there and then go to the verisons folder and move the Catch-21 file there.
 
 Now just open your minecraft launcher, press Installations, New... and Pick Catch-21 in the Version spot. 
 
