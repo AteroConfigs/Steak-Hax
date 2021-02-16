@@ -1,5 +1,8 @@
 # Catch-21
-Website: https://tdc0471.github.io/Catch-21/ (Will add lots of stuff
+Website: https://tdc0471.github.io/Catch-21/ (Will add lots of stuff)
+### What is Catch-21?
+Catch-21 is a Minecraft 1.8 Hacked Client!
+
 
 # To get files to setup client press [HERE!](https://github.com/TDC0471/Catch-21/archive/master.zip)
 For Older Verisons go [here!](https://github.com/TDC0471/Catch-21/releases)
