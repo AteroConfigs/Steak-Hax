@@ -1,7 +1,7 @@
 # Catch-21
 Website: https://tdc0471.github.io/Catch-21/ (Will add lots of stuff
 
-# To get files to setup client [LINK][https://github.com/TDC0471/Catch-21/releases]
+# To get files to setup client [LINK](https://github.com/TDC0471/Catch-21/releases)
 
 # Windows :
 To Setuo press WINDOWKEY+R and paste %appdata%/.minecraft in there and then go to the verisons folder and move the Catch-21 file there.
