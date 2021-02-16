@@ -1,4 +1,4 @@
-# What I use
+# What does TDC use to make Catch-21?
 
 I use the Minecraft Coder Pack for the Hack
 
@@ -11,3 +11,7 @@ MCP: https://intent.store/getmcp
 IDE: https://tinyurl.com/11yg8ey8 
    
 Intent: https://www.youtube.com/channel/UCFCz8KPvRLjZXaQl8epjp5A
+
+# When will raw code update?
+
+Raw code will update every week to month!
