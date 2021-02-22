@@ -1,6 +1,6 @@
-# Catch-21 Download
+# Steak-Hax Download
 
-Download [Link](https://github.com/TDC0471/Catch-21/tree/Catch-21-v1)
+Download [Link](https://github.com/TDC0471/Steak-Hax)
 
 Then Press the big green download
 
@@ -9,6 +9,6 @@ To Setup press WINDOWKEY+R and paste %appdata%/.minecraft in there and then go t
 
 Now just open your minecraft launcher, press Installations, New... and Pick Catch-21 in the Version spot.
 
-Now you can use TDC's Catch-21 Minecraft Hacked Client!
+Now you can use TDC's Steak-Hax Minecraft Hacked Client!
 
 `(You might have to unZip the files!)`
