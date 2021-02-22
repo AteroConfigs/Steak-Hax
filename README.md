@@ -1,4 +1,4 @@
-# What does TDC use to make Catch-21?
+# What does TDC use to make Steak-Hax?
 
 I use the Minecraft Coder Pack for the Hack
 
