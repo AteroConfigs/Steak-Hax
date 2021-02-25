@@ -6,6 +6,10 @@ Catch-21 is a Minecraft 1.8 Hacked Client!
 
 # To get files to setup client press [HERE!](https://github.com/TDC0471/Steak-Hax/archive/master.zip)
 For Older Verisons go [here!](https://github.com/TDC0471/Steak-Hax/releases)
+##### Recomended Texture packs
+[W.A.R. 2 Pack `,` ](http://www.mediafire.com/file/1q1qpzhnvqry2nv/W.A.R.%25282%2529.zip/file)
+[Hardcore HP bar Pack](https://www.planetminecraft.com/texture-pack/hardcore-health-bar/)
+
 
 ## Windows :
 To Setup press WINDOWKEY+R and paste %appdata%/.minecraft in there and then go to the verisons folder and move the Catch-21 file there.
